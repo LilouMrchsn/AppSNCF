@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SNCF</string>
+    <string name="selection_ville">Selectionnez une ville</string>
+    <string name="prochains_departs">Prochains départs</string>
+</resources>
